@@ -27,5 +27,9 @@ void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void _qsort(int *a, int low, int high, int size);
 void shell_sort(int *array, size_t size);
+void cocktail_sort_list(listint_t **list);
+void ascend_sort(listint_t **ptr, listint_t **limit, listint_t **list);
+void descend_sort(listint_t **ptr, listint_t **limit, listint_t **list);
+void turn_list(listint_t **ptr1, listint_t **ptr2, int n);
 
 #endif
