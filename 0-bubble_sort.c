@@ -7,6 +7,7 @@
  * The first loop should iterate through all the elements in the array
  * The second loop will compare elements next to each other and switch orderly
  *
+ * @tmp: temporary variable used to store sorted elements
  * @array: input arrray
  * @size: size of the array
  * Return: no return
