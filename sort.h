@@ -33,5 +33,9 @@ void descend_sort(listint_t **ptr, listint_t **limit, listint_t **list);
 void turn_list(listint_t **ptr1, listint_t **ptr2, int n);
 void counting_sort(int *array, size_t size);
 void merge_sort(int *array, size_t size);
+void heap_sort(int *array, size_t size);
+void swap(int *a, int *b);
+void heap_sort(int *array, size_t size);
+
 
 #endif
