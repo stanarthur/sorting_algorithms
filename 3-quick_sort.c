@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * quick_sort - function that sorts an array of integers in ascending 
+ * quick_sort - function that sorts an array of integers in ascending
  * order using the quick sort algorithm
  *
  * @array: input arrray
