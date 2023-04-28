@@ -27,7 +27,6 @@ tmp = array[j];
 array[j] = array[j + 1];
 array[j + 1] = tmp;
 print_array(array, size);
->>>>>>> 2b73a938d714c8279bfd3f8d15821502633a05a6
 }
 }
 }
